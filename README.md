@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-final
+SeekHelpers assignment internsala
+
+https://docs.google.com/document/d/1l9lTj35UqcCQ4HT8OZuB3J3DmTOVtwyUSLl94jdhoJM/edit?usp=sharing
